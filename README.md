@@ -8,7 +8,7 @@ Body Mass Index (BMI) is a person’s weight in kilograms divided by the square 
 Streamlit web app to calculate BMI Index.
 
 ## Website Link
-To be updated soon!
+https://share.streamlit.io/yashsharma8415/bmi-calculator/app.py
 
 ## Tech stack used
 
